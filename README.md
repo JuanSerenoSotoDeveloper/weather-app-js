@@ -1,2 +1,2 @@
-# Weather App Javascript - Invisible Technologies Postulation
+# Weather App Javascript - Prototype
 ![](./docs/screenshot.png)
